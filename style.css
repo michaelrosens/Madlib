@@ -26,3 +26,13 @@ footer {
     padding: 20px;
     text-align: center;
 }
+
+body{
+    background-image: linear-gradient(to right, yellow, purple);
+
+}
+
+div{
+    font-size: 30px;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
