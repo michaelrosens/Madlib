@@ -17,9 +17,9 @@ As we settled down for a cozy evening by the <b>${pluralnoun}</b> and enjoyed ea
 We all rushed to the window to catch a glimpse of the magical scene outside. The <b>${adjective}</b> snow was falling gently, creating a peaceful blanket over the <b>${noun}</b>. In the distance, we could see neighbors' houses adorned with festive <b>${pluralnoun}</b> and glowing lights.
 When it was finally time to exchange gifts, the room filled with laughter and excitement. Each present was wrapped in <b>${color}</b> paper and tied with a <b>${noun}</b>. The kids tore into their gifts with <b>${adjective}</b> enthusiasm, discovering toys, books, and other surprises.
 As we settled down for a cozy evening by the <b>${noun}</b>, we exchanged <b>${pluralnoun}</b> and enjoyed each other's company. The warmth of the fireplace and the joy in our hearts made it a Christmas to remember.
-As the night came to an end, we gathered around the table for a delicious Christmas (type of food). The room was filled with the sounds of joy and gratitude. It was a magical evening that brought our family closer together, creating memories that would last a lifetime.
+As the night came to an end, we gathered around the table for a delicious Christmas ${food}. The room was filled with the sounds of joy and gratitude. It was a magical evening that brought our family closer together, creating memories that would last a lifetime.
 When it was finally time to exchange gifts, the room filled with laughter and excitement. Each present was wrapped in <b>${color}</b> paper and tied with a <b>${noun}</b>. The kids tore into their gifts with <b>${adjective}</b> enthusiasm, discovering toys, books, and other surprises.
-As the night came to an end, we gathered around the table for a delicious Christmas <b>${typeoffood}</b>. The room was filled with the sounds of joy and gratitude. It was a magical evening that brought our family closer together, creating memories that would last a lifetime. `
+As the night came to an end, we gathered around the table for a delicious Christmas <b>${food}</b>. The room was filled with the sounds of joy and gratitude. It was a magical evening that brought our family closer together, creating memories that would last a lifetime. `
 
 
 
