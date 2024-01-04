@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: linear-gradient(red, yellow);
-    font-size: 15px;
+
 }
 
 .container {
@@ -34,7 +34,11 @@ body{
 
 }
 
+p{
+ font-size: 20px;
+}
+
 div{
-    font-size: 30px;
+    font-size: 10px;
     font-family: 'PT Sans Narrow', sans-serif;
 }
